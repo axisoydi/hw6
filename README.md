@@ -15,5 +15,25 @@ AntConc
 
 a) Наиболее частыми словами оказались предлоги, местоимения и частицы. В случае с Анной Карениной в топ-5 попали слова "и", "не", "что",
 "в", "он". В случае Generation П в топ 5 попали "и", "в", "на", "что", "не". Случжебные части речи достаточно универасльны
+
 б) Самыми редкими в обоих случаях оказались отдельные слова - имена существительные, прилагательные и некоторые имена собственные
-в)
+
+в) Generation P:
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF1.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF2.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF3.jpg
+
+Анна Каренина:
+
+г) Generation P:
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF12.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF22.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF33.jpg
+
+Анна КаренинаЖ
