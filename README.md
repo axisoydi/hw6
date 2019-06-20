@@ -28,6 +28,12 @@ https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF3.jpg
 
 Анна Каренина:
 
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA1.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA2.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA3.jpg
+
 г) Generation P:
 
 https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF12.jpg
@@ -36,4 +42,12 @@ https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF22.jpg
 
 https://github.com/axisoydi/hw6/blob/master/%D0%B3%D0%B5%D0%BD%D0%BF33.jpg
 
-Анна КаренинаЖ
+Анна Каренина:
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA12.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA22.jpg
+
+https://github.com/axisoydi/hw6/blob/master/%D0%B0%D0%BA33.jpg
+
+д)
